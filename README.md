@@ -7,7 +7,7 @@ No âmbito do MongoDB, foram abordadas as seguintes áreas:
 
 2 - Consultas Gerenciais: Criação de consultas gerenciais no MongoDB para fornecer informações relevantes ao gerente do Petshop, facilitando a geração de relatórios e análises estratégicas.
 
-Utilizando o Python, foram abordadas as seguintes áreas:
+Utilizando o Python, foram abordadas as seguintes áreas: 
 
 1 - Desenvolvimento de interfaces em Python para o cadastro de clientes através do site do Petshop Oliveira, proporcionando uma experiência intuitiva e eficiente. Implementação de interfaces para o cadastro de produtos no sistema, simplificando o gerenciamento do catálogo da empresa.
 
